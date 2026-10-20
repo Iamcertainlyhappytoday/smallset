@@ -49,6 +49,5 @@ altertext();
 function altertext(){
    document.querySelector('#photosays').innerHTML=msg+ ': '+ gee; 
 }  
-let addera= document.querySelector('.highlightb');
-addera.setAttribute('className', 'yellow');
+
   
