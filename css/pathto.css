@@ -1,7 +1,7 @@
 body{ display:flex;   font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
     font-size: 15px;flex-direction: column;margin: 0;padding: 0; width: 100vw; height:100vh;}         
 main{display: flex;justify-content: center;}
-p{padding: 0 10px;}
+p{padding: 0 3px;}
 h3{padding: 0 10px;margin:10px auto 0 auto;}
 header {width: 100%; display: flex; background-image: url(../img/chaintweedog.JPG) ; background-size: cover;     
 background-repeat: no-repeat;   font: 12px Arial, Helvetica, sans-serif;  flex-direction: column;}
