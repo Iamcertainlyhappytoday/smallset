@@ -26,7 +26,7 @@ function gale(e) {
     loseheadline();
 }
 function loseheadline(){
-    document.querySelector('#photointro h3').innerHTML='';
+    document.querySelector('#photointro h2').innerHTML='';
     altdetails();
 }   
  
