@@ -47,7 +47,7 @@ gee=' :balls : lost missing notes';
 altertext();
 } ;
 function altertext(){
-   document.querySelector('#photosays').innerHTML='<p>'+msg+ ': '+ gee+'</p>'; 
+   document.querySelector('#photosays').innerHTML=msg+ ': '+ gee; 
 }  
 let addera= document.querySelector('.highlightb');
 addera.setAttribute('className', 'yellow');
