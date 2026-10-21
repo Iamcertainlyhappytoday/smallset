@@ -32,15 +32,15 @@ function loseheadline(){
  
 function altdetails(){
   if(msg=='hc'){    
-        gee=answers[0][1];
-}else if(msg=='sign'){    
-        gee=answers[1][1];
-}else if(msg=='pathsup'){    
         gee=answers[2][1];
-}else if(msg=='brightwalk'){    
-        gee=answers[3][1];
-}else if(msg=='peaklimema'){    
+}else if(msg=='sign'){    
         gee=answers[4][1];
+}else if(msg=='pathsup'){    
+        gee=answers[3][1];
+}else if(msg=='brightwalk'){    
+        gee=answers[0][1];
+}else if(msg=='peaklimema'){    
+        gee=answers[1][1];
 }else{
 gee=' :balls : lost missing notes';
 } 
